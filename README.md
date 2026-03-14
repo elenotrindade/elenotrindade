@@ -2,7 +2,7 @@
 
 Sou desenvolvedor **Full Stack** com foco em ecossistemas de alta produtividade, infraestrutura escalável e em constante melhoria. 
 
-Minha atuação é guiada pelas demandas atuais do mercado: implemento **automação** de processos e testes para garantir entregas ágeis e seguras; gerencio **cloud e infraestrutura** focado em disponibilidade e performance; e aplico soluções de **Inteligência Artificial** de forma prática, integrando modelos e criando wrappers eficientes para otimizar fluxos de trabalho e experiência do usuário.
+Minha atuação é guiada pelas demandas atuais do mercado: implemento **automação** de processos e testes para garantir entregas ágeis e seguras; gerencio **cloud e infraestrutura** focado em disponibilidade e performance; e aplico soluções de **Inteligência Artificial** de forma prática, orquestrando **LLMs** e criando integrações eficientes para otimizar fluxos de trabalho e a experiência do usuário.
 
 ---
 
@@ -40,6 +40,6 @@ Minha atuação é guiada pelas demandas atuais do mercado: implemento **automa�
 #### **Inteligência Artificial & Ferramentas**
 ![Cursor](https://img.shields.io/badge/Cursor-512BD4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT_Wrappers-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Integrations](https://img.shields.io/badge/LLM_Integrations-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
