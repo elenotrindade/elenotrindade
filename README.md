@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### Linguagens e Ferramentas
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 <!--
 **elenotrindade/elenotrindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
