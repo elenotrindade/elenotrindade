@@ -1,8 +1,8 @@
-# Olá, eu sou o Eleno! 👋
+# Oi, eu sou o Eleno! 👋
 
 Sou desenvolvedor **Full Stack** com foco em ecossistemas de alta produtividade, infraestrutura escalável e em constante melhoria. 
 
-Minha atuação é guiada pelas demandas atuais do mercado: implemento **automação** de processos e testes para garantir entregas ágeis e seguras; gerencio **cloud e infraestrutura** focado em disponibilidade e performance; e aplico soluções de **Inteligência Artificial** de forma prática, orquestrando **LLMs** e criando integrações eficientes para otimizar fluxos de trabalho e a experiência do usuário.
+Minha atuação é guiada pelas demandas atuais do mercado: implemento **automação** de processos e testes para garantir entregas ágeis e seguras; gerencio cloud e infraestrutura focando em disponibilidade, performance e escalabilidade; e aplico soluções de IA de forma prática, orquestrando LLMs e criando integrações eficientes para otimizar fluxos, processos e a experiência do usuário.
 
 ---
 
